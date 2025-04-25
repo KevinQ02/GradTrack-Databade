@@ -11,10 +11,10 @@ GradTracker is a relational database system designed to help universities manage
 
 ## 🧠 What I Learned
 - How to **design a database system from scratch** using real-world requirements
-- How to **convert an ERD **into a normalized **relational schema**
+- How to convert an ERD into a normalized relational schema
 - Writing efficient SQL queries with JOINs and aggregates
 - The importance of indexing and schema optimization
-- **Collaborating on large-scale team-based **database projects
+- Collaborating on large-scale team-based database projects
 
 ## 💻 Technologies
 - SQL (Oracle/PLSQL)
