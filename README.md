@@ -15,6 +15,12 @@ GradTracker is a relational database system designed to help universities manage
 - Data analysis potential with Tableau/Power BI
 - Presentation designed in PowerPoint
 
+## ERD
+![ERD_For_GradTracker](https://github.com/user-attachments/assets/99d96ef1-3e29-4ab9-be83-b9cadd790a80)
+
+## RDB
+![RDB_For_GradTracker](https://github.com/user-attachments/assets/9fafb2e1-22f2-4c1d-a069-52513886a5b2)
+
 ## 📈 Sample Queries
 ```sql
 SELECT c.CeremonyID, COUNT(DISTINCT r.GraduateID) AS Grad_Count
