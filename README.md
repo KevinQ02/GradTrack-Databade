@@ -19,7 +19,7 @@ GradTracker is a relational database system designed to help universities manage
 ## 💻 Technologies
 - SQL (Oracle/PLSQL)
 - ERD Design (ERDPlus)
-- Data analysis potential with Tableau/Power BI
+- Data analysis potential with Tableau
 - Presentation designed in PowerPoint
 
 ## ERD
