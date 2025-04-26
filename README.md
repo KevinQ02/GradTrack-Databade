@@ -1,6 +1,6 @@
 # 🎓 GradTracker – Graduation Management Database System
 
-GradTracker is a relational database system designed to help universities manage graduate registrations, guest tickets, award tracking, and ceremony logistics.
+GradTracker is a relational database system designed to help universities manage graduate registrations, guest tickets, award tracking, and ceremony logistics. This project was designed and implemented entirely from scratch. Starting with real-world requirements, I created a conceptual ER diagram, mapped it into a fully normalized relational schema, and implemented it using SQL with sample data, optimized indexes, and advanced JOIN queries.
 
 ## 📦 Features
 - Track graduate registrations and graduation status
